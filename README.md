@@ -54,7 +54,6 @@ Every track written, recorded, engineered, and mastered in-house.
 |---------|------|-------|
 | **ALL LINES BUSINESS SOLUTIONS** | COO | Small business consulting & automation |
 | **ALCC, LLC** | Co-Owner | Workers' compensation support services |
-| **Mildred and Margie Inc.** | Principal | Family holding company |
 | **T17 Entertainment Services** | Founder | Independent music label |
 
 ---
