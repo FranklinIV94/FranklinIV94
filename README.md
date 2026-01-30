@@ -21,7 +21,7 @@ I help small businesses simplify operations through consulting, automation, and 
 
 ## 🎵 Music & Production
 
-Beyond code, I'm a **songwriter, producer, and audio engineer** performing as **King**.
+Beyond code, I'm a **songwriter, recording artist, and audio engineer** performing as **King**.
 
 **Latest Releases:**
 - 🎧 [WHTNBLK](https://music.apple.com/us/album/whtnblk/1864128591) (2025) — 13 tracks
@@ -30,12 +30,12 @@ Beyond code, I'm a **songwriter, producer, and audio engineer** performing as **
 **Listen:**
 [Apple Music](https://music.apple.com/us/artist/king/1461432503) • [Spotify](https://open.spotify.com/artist/29fNIY8iccWLXVnbnfgPBh)
 
-**Production Stack:**
+**Studio Stack:**
 - **DAW:** Logic Pro X, Ableton Live
 - **Vocals:** Auto-Tune, Midnight EQ, Scarlett EQ
 - **Processing:** Multipressor, Chorus, Ensemble, Space D, COSMOS
 
-Every track written, produced, mixed, and mastered in-house. No ghost writers. No outsourced mixing.
+Every track written, recorded, engineered, and mastered in-house.
 
 ---
 
