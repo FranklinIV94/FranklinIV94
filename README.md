@@ -19,6 +19,26 @@ I help small businesses simplify operations through consulting, automation, and 
 
 ---
 
+## 🎵 Music & Production
+
+Beyond code, I'm a **songwriter, producer, and audio engineer** performing as **King**.
+
+**Latest Releases:**
+- 🎧 [WHTNBLK](https://music.apple.com/us/album/whtnblk/1864128591) (2025) — 13 tracks
+- 🎧 [Summer Sessions: Volume 2](https://music.apple.com/us/album/summer-sessions-volume-2/1764051699) (2024) — 10 tracks w/ Chad Millie
+
+**Listen:**
+[Apple Music](https://music.apple.com/us/artist/king/1461432503) • [Spotify](https://open.spotify.com/artist/29fNIY8iccWLXVnbnfgPBh)
+
+**Production Stack:**
+- **DAW:** Logic Pro X, Ableton Live
+- **Vocals:** Auto-Tune, Midnight EQ, Scarlett EQ
+- **Processing:** Multipressor, Chorus, Ensemble, Space D, COSMOS
+
+Every track written, produced, mixed, and mastered in-house. No ghost writers. No outsourced mixing.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages:** JavaScript, Node.js, Python, SQL  
