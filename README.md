@@ -44,10 +44,14 @@ Every track written, recorded, engineered, and mastered in-house.
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, Node.js, Python, SQL  
-**Platforms:** Microsoft Azure, Oracle Cloud, Vercel  
-**Tools:** Stripe API, Microsoft Graph, Dropbox API, WhatsApp Business  
-**AI/ML:** Claude (Anthropic), OpenAI, Custom LLM Integrations
+**Languages:** JavaScript, Node.js, Python, SQL, Bash, Markdown  
+**Platforms:** Microsoft Azure, Oracle Cloud, Vercel, GitHub, Tailscale  
+**AI/ML:** Claude (Anthropic), OpenAI, Google Gemini, LangExtract, Custom LLM Integrations  
+**Automation:** Zapier, n8n, GitHub Actions, Clawdbot, Supermemory  
+**APIs & Integrations:** Microsoft Graph, Stripe, Dropbox, WhatsApp Business, Gmail, Calendar  
+**Document Processing:** LangExtract, Obsidian, PDF automation, Email parsing  
+**Security & Monitoring:** Access controls, Token management, Audit trails, Device pairing  
+**Development Tools:** Git, GitHub CLI, VS Code, Docker, REST APIs
 
 ---
 
