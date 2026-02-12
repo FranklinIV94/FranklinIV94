@@ -8,11 +8,14 @@ I help small businesses simplify operations through consulting, automation, and 
 
 ## 🚀 What I'm Building
 
-### [ICSFL](https://github.com/FranklinIV94/ICSFL) 
-*Integrated Claim Systems for Florida* — A SaaS platform revolutionizing workers' compensation claims management. Streamlining post-accident processes for carriers, adjusters, and healthcare providers.
+### [ALBS Memory Architecture](https://github.com/FranklinIV94/albs-ai-memory-architecture)
+*Enterprise AI Memory Systems* — Open source architecture for persistent AI context and intelligent interactions. Battle-tested with 95% context retention improvement and zero data leakage across security boundaries.
+
+### [ALL LINES BUSINESS SOLUTIONS](https://simplifyingbusinesses.com)
+*AI-Accelerated Development Platform* — Backend automation suite for enterprise clients featuring secure system architecture, intelligent document processing, and multi-platform integrations. Services include AI Innovation Officer implementations, business process automation, and scalable development solutions.
 
 ### [Prospyr](https://github.com/FranklinIV94/Prospyr)
-*AI-Powered Business Assistant* — Custom automation suite handling email, scheduling, client communications, and document processing. Built on Claude with integrations across Stripe, Dropbox, Microsoft 365, and more.
+*AI-Powered Business Assistant* — Advanced automation platform handling client communications, document processing, email management, and cross-platform integrations. Built on enterprise-grade architecture with Microsoft 365, Dropbox, and custom API integrations.
 
 ### [T17 Entertainment](https://github.com/FranklinIV94/T17-Entertainment)
 *Team Seventeen Entertainment Services* — Independent record label focused on alternative hip-hop and pop. Managing artist promotion, digital distribution, and content creation.
