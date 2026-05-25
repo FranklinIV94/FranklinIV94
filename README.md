@@ -6,31 +6,18 @@ I architect AI-accelerated development solutions for small businesses — combin
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Highlights
 
 ### [Agent Code of Conduct](https://github.com/FranklinIV94/agent-code-of-conduct)
-*Production-Grade Agent Governance Framework* — Open source framework for governing AI agent infrastructure: roles, hierarchy, ethics, enforcement, defense-in-depth security, command responsibility, and scaling provisions. Built from production experience running multi-agent systems.
+*Production-Grade Agent Governance* — Open source framework for governing AI agent infrastructure: roles, hierarchy, ethics, enforcement, defense-in-depth security, command responsibility, and scaling provisions.
 
 ### [ALBS Memory Architecture](https://github.com/FranklinIV94/albs-ai-memory-architecture)
-*Enterprise AI Memory Systems* — Persistent context architecture for AI agents with 95% context retention improvement and zero data leakage across security boundaries. Powers our overnight agent fleet.
-
-### [ALBS TaxSync Intake](https://github.com/FranklinIV94/albs-taxsync-intake)
-*AI-Powered Tax & Intake Automation* — Client intake system with intelligent document processing, tax simplification, and automated workflow generation for ALBS tax and AIIO services.
-
-### [AgentPay Solana](https://github.com/FranklinIV94/agentpay-solana)
-*Payment Layer for AI Agents* — Mobile-first dashboard for humans to govern AI agent spending on Solana. Built for Consensus 2026 Hackathon. CDK + Lambda + Bedrock.
-
-### [Bolaveau Design Platform](https://github.com/FranklinIV94/bolaveau-design-platform)
-*3D Visualization Platform* — Next.js 14 platform for hosting and viewing 3D models. Active retainer client deployment.
-
-### [Clicky ALBS Skill](https://github.com/FranklinIV94/clicky-albs-skill)
-*AI Cursor Companion for SMBs* — Business Operations skill for Clicky that turns the AI cursor buddy into an SMB operations assistant. Tax deadlines, entity comparison, payroll guidance, state requirements.
+*Enterprise AI Memory Systems* — Persistent context architecture for AI agents with 95% context retention improvement and zero data leakage across security boundaries.
 
 ### [ALL LINES BUSINESS SOLUTIONS](https://simplifyingbusinesses.com)
-*AI-Accelerated Development* — Backend automation suite for enterprise clients featuring secure system architecture, intelligent document processing, and multi-platform integrations. AI Innovation Officer implementations, business process automation, and scalable development solutions.
+*AI-Accelerated Development* — Consulting, automation, and agent infrastructure for small businesses. AI Innovation Officer implementations, business process automation, and scalable development solutions.
 
-### [T17 Entertainment](https://github.com/FranklinIV94/T17-Entertainment)
-*Team Seventeen Entertainment Services* — Independent record label focused on alternative hip-hop and pop. Managing artist promotion, digital distribution, and content creation.
+👉 **See all projects at [franklin.simplifyingbusinesses.com](https://franklin.simplifyingbusinesses.com)**
 
 ---
 
@@ -82,7 +69,7 @@ Every track written, recorded, engineered, and mastered in-house.
 
 **Platforms:** AWS (Prospyr 305), Vercel, GitHub, Tailscale, Docker
 
-**AI/ML:** Claude (Anthropic), OpenAI, Google Gemini, GLM-5.1, LangExtract, Custom LLM Integrations, Amazon Bedrock
+**AI/ML:** Claude (Anthropic), OpenAI, Google Gemini, GLM-5.1, LangExtract, Amazon Bedrock
 
 **Agent Infrastructure:** OpenClaw, Prospyr 305 (7 production agents), Agent Code of Conduct
 
@@ -90,13 +77,11 @@ Every track written, recorded, engineered, and mastered in-house.
 
 **APIs & Integrations:** Microsoft Graph, Stripe, Supabase, Resend, WhatsApp Business, Twilio
 
-**Security & Compliance:** AgentShield, Bumblebee (supply-chain), Gitleaks, RAMPART, GateGuard, Safety-Guard, HIPAA BAA management, IRS §7213, GLBA
+**Security & Compliance:** AgentShield, Bumblebee, Gitleaks, RAMPART, GateGuard, Safety-Guard, HIPAA BAA, IRS §7213, GLBA
 
-**Self-Hosted:** Uptime Kuma, Vaultwarden, Ladder (paywall bypass), SkySend, LocalSend
+**Self-Hosted:** Uptime Kuma, Vaultwarden, Ladder, SkySend, LocalSend
 
-**OSINT:** Sherlock, CloakBrowser, IntelBase, GhostTrack, Arkham, CryptoTaxCalculator
-
-**Document Processing:** LangExtract, Obsidian, PDF automation, Readwise sync, Whisper transcription
+**OSINT:** Sherlock, CloakBrowser, IntelBase, Arkham, CryptoTaxCalculator
 
 **Development Tools:** Git, GitHub CLI, AWS CDK, Docker, pnpm, Playwright, Vercel CLI
 
@@ -126,6 +111,7 @@ Every track written, recorded, engineered, and mastered in-house.
 ## 📫 Let's Connect
 
 - 🌐 [simplifyingbusinesses.com](https://simplifyingbusinesses.com)
+- 🎯 [franklin.simplifyingbusinesses.com](https://franklin.simplifyingbusinesses.com) — Portfolio
 - 📧 franklin@simplifyingbusinesses.com
 - 📍 South Florida
 
