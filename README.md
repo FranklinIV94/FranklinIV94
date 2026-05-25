@@ -11,23 +11,20 @@ I architect AI-accelerated development solutions for small businesses — combin
 ### [Agent Code of Conduct](https://github.com/FranklinIV94/agent-code-of-conduct)
 *Production-Grade Agent Governance Framework* — Open source framework for governing AI agent infrastructure: roles, hierarchy, ethics, enforcement, defense-in-depth security, command responsibility, and scaling provisions. Built from production experience running multi-agent systems.
 
-### [ALBS Portal](https://onboarding.simplifyingbusinesses.com)
-*Client Management & Onboarding Platform* — Full-stack client portal for managing 100+ clients, leads pipeline, do-not-contact registry, and automated onboarding workflows. Built on Next.js + Supabase.
-
 ### [ALBS Memory Architecture](https://github.com/FranklinIV94/albs-ai-memory-architecture)
 *Enterprise AI Memory Systems* — Persistent context architecture for AI agents with 95% context retention improvement and zero data leakage across security boundaries. Powers our overnight agent fleet.
 
-### [TaxHacker](https://github.com/FranklinIV94/albs-taxsync-intake)
+### [ALBS TaxSync Intake](https://github.com/FranklinIV94/albs-taxsync-intake)
 *AI-Powered Tax & Intake Automation* — Client intake system with intelligent document processing, tax simplification, and automated workflow generation for ALBS tax and AIIO services.
-
-### [Cabrera Medical](https://github.com/FranklinIV94/cabreramedical-site)
-*Healthcare Patient Portal* — Next.js 14 SSR application with Supabase Auth (4-role RBAC), HIPAA-compliant architecture design, and patient portal for a medical practice. Pre-production.
 
 ### [AgentPay Solana](https://github.com/FranklinIV94/agentpay-solana)
 *Payment Layer for AI Agents* — Mobile-first dashboard for humans to govern AI agent spending on Solana. Built for Consensus 2026 Hackathon. CDK + Lambda + Bedrock.
 
 ### [Bolaveau Design Platform](https://github.com/FranklinIV94/bolaveau-design-platform)
 *3D Visualization Platform* — Next.js 14 platform for hosting and viewing 3D models. Active retainer client deployment.
+
+### [Clicky ALBS Skill](https://github.com/FranklinIV94/clicky-albs-skill)
+*AI Cursor Companion for SMBs* — Business Operations skill for Clicky that turns the AI cursor buddy into an SMB operations assistant. Tax deadlines, entity comparison, payroll guidance, state requirements.
 
 ### [ALL LINES BUSINESS SOLUTIONS](https://simplifyingbusinesses.com)
 *AI-Accelerated Development* — Backend automation suite for enterprise clients featuring secure system architecture, intelligent document processing, and multi-platform integrations. AI Innovation Officer implementations, business process automation, and scalable development solutions.
