@@ -1,3 +1,27 @@
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=120&section=header&text=Franklin%20Bryant&fontSize=42&fontColor=3eb002&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
+</div>
+
+<!-- Stats Cards -->
+<div align="center">
+  <a href="https://github.com/FranklinIV94">
+    <img src="https://github-readme-stats.vercel.app/api?username=FranklinIV94&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=3eb002&icon_color=3eb002&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  </a>
+  <a href="https://github.com/FranklinIV94">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=FranklinIV94&theme=dark&hide_border=true&background=0a0a0f&ring=3eb002&fire=3eb002&currStreakLabel=3eb002&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub Streak" height="165"/>
+  </a>
+</div>
+
+<!-- Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=FranklinIV94&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=7" alt="Trophies" width="90%"/>
+  </a>
+</div>
+
+<br/>
+
 # Hey, I'm Franklin Bryant 👋
 
 **Chief Operating Officer** at [ALL LINES BUSINESS SOLUTIONS](https://simplifyingbusinesses.com)
@@ -61,29 +85,97 @@ Every track written, recorded, engineered, and mastered in-house.
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, Python, SQL, Bash, Solidity, Markdown
+**Languages:**
 
-**Frontend:** React, Next.js 14, Vite, Tailwind CSS, Framer Motion
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-**Backend:** Node.js, AWS Lambda, API Gateway, Supabase, PostgreSQL
+**Frontend:**
 
-**Platforms:** AWS (Prospyr 305), Vercel, GitHub, Tailscale, Docker
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**AI/ML:** Claude (Anthropic), OpenAI, Google Gemini, GLM-5.1, LangExtract, Amazon Bedrock
+**Backend:**
 
-**Agent Infrastructure:** OpenClaw, Prospyr 305 (7 production agents), Agent Code of Conduct
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=black)
+![API Gateway](https://img.shields.io/badge/AWS_API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Automation:** n8n, GitHub Actions, Cron, Resend API, Microsoft Graph API
+**Platforms:**
 
-**APIs & Integrations:** Microsoft Graph, Stripe, Supabase, Resend, WhatsApp Business, Twilio
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-1E2228?style=flat-square&logo=tailscale&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Security & Compliance:** AgentShield, Bumblebee, Gitleaks, RAMPART, GateGuard, Safety-Guard, HIPAA BAA, IRS §7213, GLBA
+**AI/ML:**
 
-**Self-Hosted:** Uptime Kuma, Vaultwarden, Ladder, SkySend, LocalSend
+![Anthropic](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-5.1-4285F4?style=flat-square&logo=colorshadow&logoColor=white)
+![LangExtract](https://img.shields.io/badge/LangExtract-00C896?style=flat-square&logo=langchain&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
 
-**OSINT:** Sherlock, CloakBrowser, IntelBase, Arkham, CryptoTaxCalculator
+**Agent Infrastructure:**
 
-**Development Tools:** Git, GitHub CLI, AWS CDK, Docker, pnpm, Playwright, Vercel CLI
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=flat-square&logo=openclaw&logoColor=white)
+![Prospyr 305](https://img.shields.io/badge/Prospyr_305-3eb002?style=flat-square&logo=protractor&logoColor=white)
+![Agent Code of Conduct](https://img.shields.io/badge/Agent_Code_of_Conduct-3eb002?style=flat-square&logo=bookstack&logoColor=white)
+
+**Automation:**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-23B5D6?style=flat-square&logo=cron&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**APIs & Integrations:**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![WhatsApp Business](https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+
+**Security & Compliance:**
+
+![AgentShield](https://img.shields.io/badge/AgentShield-FF4757?style=flat-square&logo=shield&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-FF4757?style=flat-square&logo=gitlabs&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA_BAA-2E8B57?style=flat-square&logo=heartex&logoColor=white)
+![IRS §7213](https://img.shields.io/badge/IRS_§7213-2E8B57?style=flat-square&logo=irs&logoColor=white)
+![GLBA](https://img.shields.io/badge/GLBA-2E8B57?style=flat-square&logo=shield&logoColor=white)
+
+**Self-Hosted:**
+
+![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat-square&logo=uptimekuma&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**OSINT:**
+
+![Sherlock](https://img.shields.io/badge/Sherlock-1E1E1E?style=flat-square&logo=sherlock&logoColor=white)
+![IntelBase](https://img.shields.io/badge/IntelBase-FF6B35?style=flat-square&logo=intel&logoColor=white)
+
+**Development Tools:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-2088FF?style=flat-square&logo=github&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazonaws&logoColor=black)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Vercel CLI](https://img.shields.io/badge/Vercel_CLI-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -118,3 +210,15 @@ Every track written, recorded, engineered, and mastered in-house.
 ---
 
 *"Simplifying business, one process at a time."*
+
+<!-- Visitor Badge -->
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=FranklinIV94">
+    <img src="https://api.visitorbadge.io/api/combined?path=FranklinIV94&countColor=%233eb002&style=flat-square" alt="Visitors"/>
+  </a>
+</div>
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=120&section=footer&text=&fontSize=0&animation=fadeIn" width="100%" alt="footer"/>
+</div>
