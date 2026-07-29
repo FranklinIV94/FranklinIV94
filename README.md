@@ -3,23 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=120&section=header&text=Franklin%20Bryant&fontSize=42&fontColor=3eb002&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
 </div>
 
-<!-- Stats Cards -->
-<div align="center">
-  <a href="https://github.com/FranklinIV94">
-    <img src="https://github-readme-stats.vercel.app/api?username=FranklinIV94&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=3eb002&icon_color=3eb002&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-  </a>
-  <a href="https://github.com/FranklinIV94">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=FranklinIV94&theme=dark&hide_border=true&background=0a0a0f&ring=3eb002&fire=3eb002&currStreakLabel=3eb002&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub Streak" height="165"/>
-  </a>
-</div>
-
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FranklinIV94&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=7" alt="Trophies" width="90%"/>
-  </a>
-</div>
-
 <br/>
 
 # Hey, I'm Franklin Bryant 👋
