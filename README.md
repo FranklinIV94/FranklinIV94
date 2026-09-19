@@ -15,9 +15,9 @@
 
 <!-- Social / Links -->
 <p align="center">
-  <a href="https://simplifyingbusinesses.com"><img src="https://img.shields.io/badge/🌐_simplifyingbusinesses.com-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=3eb002" alt="Website"/></a>
-  <a href="https://franklin.simplifyingbusinesses.com"><img src="https://img.shields.io/badge/🎯_Portfolio-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=3eb002" alt="Portfolio"/></a>
-  <a href="mailto:franklin@simplifyingbusinesses.com"><img src="https://img.shields.io/badge/📧_Email-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=3eb002" alt="Email"/></a>
+  <a href="https://simplifyingbusinesses.com"><img src="https://img.shields.io/badge/%F0%9F%8C%90_simplifyingbusinesses.com-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=3eb002" alt="Website"/></a>
+  <a href="https://franklin.simplifyingbusinesses.com"><img src="https://img.shields.io/badge/%F0%9F%8E%AF_Portfolio-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=3eb002" alt="Portfolio"/></a>
+  <a href="mailto:franklin@simplifyingbusinesses.com"><img src="https://img.shields.io/badge/%F0%9F%93%A7_Email-0a0a0f?style=for-the-badge&labelColor=0a0a0f&color=3eb002" alt="Email"/></a>
 </p>
 
 ---
@@ -104,7 +104,7 @@ I operate a multi-agent fleet handling research, competitive intelligence, finan
 
 **AI/ML**
 
-![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20(Anthropic)-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![GLM 5.2](https://img.shields.io/badge/GLM-5.2-4285F4?style=flat-square&logoColor=white)
